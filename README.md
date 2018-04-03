@@ -24,14 +24,22 @@ Alternatively you can also follow the following steps to install the Image Effec
 1. Text on Image (style : text_on_image):
 
 ```
-[image_effects style="text_on_image" text="Hello" font-size="20" font-offset-x="20" font-offset-y="30" pic1="https://example.ex/test.jpg"]
+[image_effects style="text_on_image" text="Hello" font-size="20" font-offset-x="20" font-offset-y="30" pic1="http://kevix.rf.gd/material/i1.jpg"]
 ```
 
 **Attribute:**
 
 | Attribute Name  | Description  | Is Required | Default Value |
 | ------------ | --------------- | :-----: | -------------- |
+| pic1      | The URL of Image | Y | --- |
 | text      | Text On the Image | Y | --- |
 | font-size      | Font Size | N | 36 |
 | font-offset-x | Left margin (px) start to write Text | N | 0 |
 | font-offset-y | Top margin (px) start to write Text | N | 0 |
+
+**Result:**
+Original Image:
+![GITHUB](http://kevix.rf.gd/material/i1.jpg "input")
+
+Processed Image:
+![GITHUB](http://kevix.rf.gd/material/r1.jpg "result")
