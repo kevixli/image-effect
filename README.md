@@ -94,7 +94,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 ![Result Image](example/r3.png)
 
-**5. Scale Image (style : scale_image):**
+**5. Resize / Scale Image (style : scale_image):**
 
 ```
 [image_effects style="scale_image" width="100" height="100" pic1="https://cdn.pixabay.com/photo/2017/07/29/04/54/cartoon-2550645_960_720.png"]
