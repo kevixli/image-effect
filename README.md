@@ -39,9 +39,9 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 **Result:**
 Original Image:
-<img style="vertical-align:middle;" src="http://kevix.rf.gd/material/i1.jpg"/>
-![](http://kevix.rf.gd/material/i1.jpg)
+<img style="vertical-align:middle;" src="https://kevix.rf.gd/material/i1.jpg"/>
+![](https://kevix.rf.gd/material/i1.jpg)
 
 Processed Image:
 
-![](http://kevix.rf.gd/material/r1.jpg)
+![](https://kevix.rf.gd/material/r1.jpg)
