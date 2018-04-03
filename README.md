@@ -108,7 +108,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 | pic2      | The URL of right Image | Y | --- |
 
 **Original Image :** <br />
-![Original Image](example/i51.jpg)<br/>
+![Original Image](example/i51.jpg) 
 ![Original Image](example/i52.jpg)
 
 **Procesed Image :** <br />
