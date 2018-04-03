@@ -21,7 +21,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 # Simple User Guide / Example
 
-1. Text on Image (style : text_on_image):
+**1. Text on Image (style : text_on_image):**
 
 ```
 [image_effects style="text_on_image" text="Hello" font-size="20" font-offset-x="20" font-offset-y="30" pic1="http://kevix.rf.gd/material/i1.jpg"]
@@ -58,7 +58,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 ![Result Image](example/r2.png)
 
-3. Image Opacity / Transparency (style : alpha_image):
+**3. Image Opacity / Transparency (style : alpha_image):**
 
 ```
 [image_effects style="alpha_image" opacity="0.5" pic1="https://i.ytimg.com/vi/W5YwIWTzXiU/hqdefault.jpg"]
@@ -73,7 +73,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 ![Result Image](example/r3.png)
 
-2.  Scale Image (style : scale_image):
+**4. Scale Image (style : scale_image):**
 
 ```
 [image_effects style="scale_image" width="100" height="100" pic1="https://cdn.pixabay.com/photo/2017/07/29/04/54/cartoon-2550645_960_720.png"]
