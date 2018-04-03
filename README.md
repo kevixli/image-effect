@@ -19,7 +19,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 1. Upload the image-effects folder to the to the /wp-content/plugins/ directory
 2. Activate the plugin through the ‘Plugins’ menu in WordPress
 
-#Simple User Guide
+# Simple User Guide
 
 1. Text on Image (style : text_on_image):
 
@@ -27,7 +27,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 [image_effects style="text_on_image" text="Hello" font-size="20" font-offset-x="20" font-offset-y="30" pic1="https://tbsila.cdn.turner.com/toonla/images/cnapac/content/1148/link/adventure-time-run/au/atr---266x266.jpg"]
 '''
 
-## Attribute:
+** Attribute: **
 
 | Attribute Name  | Description  | Is Required | Default Value |
 | ------------ | --------------- | :-----: | -------------- |
