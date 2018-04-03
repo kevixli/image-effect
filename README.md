@@ -1,11 +1,11 @@
 # image-effects
 Wordpress plugin for processing image by using ImageMagick Lib
 
-##Environment:
+# Environment:
 1. PHP 5.2 above with ImageMagick Extension installed
 2. Wordpress 3.4 above
 
-##Installation
+#	Installation
 This section describes how to install the plugin and get it working.
 
 1. In your WordPress Administration Panels, click on WP Dashboard -> Plugins -> Add New plugin
