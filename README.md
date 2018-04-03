@@ -38,6 +38,6 @@ Alternatively you can also follow the following steps to install the Image Effec
 | font-offset-y | Top margin (px) start to write Text | N | 0 |
 
 **Result:**
-![Original Image](http://kevix.rf.gd/material/i1.jpg)
+![Original Image](example/i1.jpg)
 
-![Result Image](http://kevix.rf.gd/material/r1.jpg)
+![Result Image](example/r1.png)
