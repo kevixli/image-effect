@@ -58,3 +58,17 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 ![Result Image](example/r2.png)
 
+3. Image Opacity / Transparency (style : alpha_image):
+
+```
+[image_effects style="alpha_image" opacity="0.5" pic1="https://i.ytimg.com/vi/W5YwIWTzXiU/hqdefault.jpg"]
+```
+
+**Attribute:**
+
+| Attribute Name  | Description  | Is Required | Default Value |
+| ------------ | --------------- | :-----: | -------------- |
+| pic1      | The URL of background Image | Y | --- |
+| opacity | the value of opacity (0.0 - 1.0) | N | 0.47 |
+
+![Result Image](example/r3.png)
