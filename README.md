@@ -37,7 +37,24 @@ Alternatively you can also follow the following steps to install the Image Effec
 | font-offset-x | Left margin (px) start to write Text | N | 0 |
 | font-offset-y | Top margin (px) start to write Text | N | 0 |
 
-**Result:**
-![Original Image](example/i1.jpg)
-
 ![Result Image](example/r1.png)
+
+2.  image Top on another Image (style : overlay_image):
+
+```
+[image_effects style="overlay_image" offset-x="100" offset-y="50" resize-top-width="200" resize-top-height="200" pic1="https://i.ytimg.com/vi/W5YwIWTzXiU/hqdefault.jpg" pic2="https://cdn.pixabay.com/photo/2012/04/01/12/24/penguin-23159_960_720.png"]
+```
+
+**Attribute:**
+
+| Attribute Name  | Description  | Is Required | Default Value |
+| ------------ | --------------- | :-----: | -------------- |
+| pic1      | The URL of background Image | Y | --- |
+| pic2      | The URL of top Image | Y | --- |
+| resize-top-width | Resize the width of top image | N | --- |
+| resize-top-height | Resize the height of top image | N | --- |
+| offset-x | Left margin (px) of background image start to put top image | N | 0 |
+| offset-y | Top margin (px) of background image start to top image | N | 0 |
+
+![Result Image](example/r2.png)
+
