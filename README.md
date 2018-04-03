@@ -39,7 +39,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 ![Result Image](example/r1.png)
 
-2.  image Top on another Image (style : overlay_image):
+**2.  image Top on another Image (style : overlay_image):**
 
 ```
 [image_effects style="overlay_image" offset-x="100" offset-y="50" resize-top-width="200" resize-top-height="200" pic1="https://i.ytimg.com/vi/W5YwIWTzXiU/hqdefault.jpg" pic2="https://cdn.pixabay.com/photo/2012/04/01/12/24/penguin-23159_960_720.png"]
@@ -88,7 +88,28 @@ Alternatively you can also follow the following steps to install the Image Effec
 | height | Resize the best height of image | Y | --- |
 
 **Original Image :** <br />
-![Result Image](example/i4.png)
+![Original Image](example/i4.png)
 
 **Procesed Image :** <br />
 ![Result Image](example/r4.png)
+
+
+**5. Combine 2 Images with blend Effect (style : imagick_composite):**
+
+```
+[image_effects style="imagick_composite" pic1="http://www.chateaux-france.com/dom/c/chateaudesconde/chateau-de-vallery-le-domaine-1.jpg" pic2="http://www.chateaux-france.com/dom/c/chateaudesconde/chateau-de-vallery-le-domaine-facade-renaissance.jpg"]
+```
+
+**Attribute:**
+
+| Attribute Name  | Description  | Is Required | Default Value |
+| ------------ | --------------- | :-----: | -------------- |
+| pic1      | The URL of left Image | Y | --- |
+| pic2      | The URL of right Image | Y | --- |
+
+**Original Image :** <br />
+![Original Image](example/i51.png)<br/>
+![Original Image](example/i52.png)
+
+**Procesed Image :** <br />
+![Result Image](example/r5.png)
