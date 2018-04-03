@@ -39,7 +39,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 **Result:**
 Original Image:
-
+<img style="vertical-align:middle;" src="https://dl.dropboxusercontent.com/u/2226591/GIT/avatar2.png"/>
 ![](http://kevix.rf.gd/material/i1.jpg)
 
 Processed Image:
