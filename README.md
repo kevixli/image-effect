@@ -1,5 +1,6 @@
 # image-effects
-Wordpress plugin for processing image by using ImageMagick Lib
+'image-effects' Wordpress Plugin allows you to do image processing with many awesome image effects by using shortcodes!
+
 
 # Environment:
 1. PHP 5.2 above with ImageMagick Extension installed
