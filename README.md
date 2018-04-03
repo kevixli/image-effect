@@ -39,7 +39,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 **Result:**
 Original Image:
-![GITHUB](http://kevix.rf.gd/material/i1.jpg "input")
+(http://kevix.rf.gd/material/i1.jpg)
 
 Processed Image:
-![GITHUB](http://kevix.rf.gd/material/r1.jpg "result")
+(http://kevix.rf.gd/material/r1.jpg)
