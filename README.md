@@ -38,7 +38,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 ![Original Image](example/i51.jpg) 
 ![Original Image](example/i52.jpg)
 
-**Procesed Image :** <br />
+**Processed Image :** <br />
 ![Result Image](example/r5.png)
 
 
@@ -60,7 +60,7 @@ Alternatively you can also follow the following steps to install the Image Effec
 
 ![Result Image](example/r1.png)
 
-**3.  image Top on another Image (style : overlay_image):**
+**3. Put One Image On Top Of Another Image (style : overlay_image):**
 
 ```
 [image_effects style="overlay_image" offset-x="100" offset-y="50" resize-top-width="200" resize-top-height="200" pic1="https://i.ytimg.com/vi/W5YwIWTzXiU/hqdefault.jpg" pic2="https://cdn.pixabay.com/photo/2012/04/01/12/24/penguin-23159_960_720.png"]
@@ -111,5 +111,5 @@ Alternatively you can also follow the following steps to install the Image Effec
 **Original Image :** <br />
 ![Original Image](example/i4.png)
 
-**Procesed Image :** <br />
+**Processed Image :** <br />
 ![Result Image](example/r4.png)
